@@ -1,0 +1,3 @@
+2345678,Anjola Oladapo,17,Comp Sci
+1234567,Henrietta Akpebe,17,Adv Maths
+3456789,Eniola Oladapo,15,Drama
